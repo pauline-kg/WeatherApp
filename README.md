@@ -64,7 +64,10 @@ Provide users with current weather conditions and short-term forecasts for citie
 
 |                                   Home / Search                                    |                                          Current Weather                                          |                                      Forecast                                       |
 | :--------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------: |
-| <img src="screenshots/wireframe-home.png" width="220" alt="Home/Search wireframe"> | <img src="screenshots/wireframe-current-weather.png" width="220" alt="Current Weather wireframe"> | <img src="screenshots/wireframe-forecast.png" width="220" alt="Forecast wireframe"> |
+| <img width="461" height="710" alt="Screen1" src="https://github.com/user-attachments/assets/db1b453d-9a63-45e1-bd81-9bfc6a075461" />
+| <img width="470" height="722" alt="Screen2" src="https://github.com/user-attachments/assets/c2068d4c-33f0-4558-a28f-bc53af734b1f" />
+| <img width="461" height="717" alt="Screen3" src="https://github.com/user-attachments/assets/91cba374-168e-4d49-97d8-7c180f4dc047" />
+ |
 
 ---
 
