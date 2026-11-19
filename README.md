@@ -62,12 +62,9 @@ Provide users with current weather conditions and short-term forecasts for citie
 
 ### Wireframes
 
-|                                   Home / Search                                    |                                          Current Weather                                          |                                      Forecast                                       |
-| :--------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------: |
-| <img width="461" height="710" alt="Screen1" src="https://github.com/user-attachments/assets/db1b453d-9a63-45e1-bd81-9bfc6a075461" />
-| 
-| <img width="461" height="717" alt="Screen3" src="https://github.com/user-attachments/assets/91cba374-168e-4d49-97d8-7c180f4dc047" />
- |<img width="470" height="722" alt="Screen2" src="https://github.com/user-attachments/assets/c2068d4c-33f0-4558-a28f-bc53af734b1f" />
+| Home / Search | Current Weather | Forecast |
+|:---:|:---:|:---:|
+| <img src="https://github.com/user-attachments/assets/db1b453d-9a63-45e1-bd81-9bfc6a075461" width="220" alt="Home/Search wireframe"> | <img src="https://github.com/user-attachments/assets/c2068d4c-33f0-4558-a28f-bc53af734b1f" width="220" alt="Current Weather wireframe"> | <img src="https://github.com/user-attachments/assets/91cba374-168e-4d49-97d8-7c180f4dc047" width="220" alt="Forecast wireframe"> |
 
 ---
 
@@ -75,7 +72,7 @@ Provide users with current weather conditions and short-term forecasts for citie
 
 | Team Member   | Responsibilities                               |
 | ------------- | ---------------------------------------------- |
-| Pauline Guiao | \_TODO: screen1, Reusable Components, FlatList |
+| Pauline Guiao | _TODO: screen1, Reusable Components, FlatList |
 | Sweeny Tan    | _TODO: screens2-3, API integration_            |
 
 ---
